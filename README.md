@@ -89,7 +89,7 @@
 
 Δημοσιευμένο βιογραφικό: https://ioanna8888.github.io/my-cv/
 
-Πηγαίος κώδικας HTML: https://github.com/Ioanna8888/my-cv/blob/main/index.html
+Κώδικας HTML: https://github.com/Ioanna8888/my-cv/blob/main/index.html
   
 
 ## Μέρος Β - Ανάλυση και Σχεδίαση, 50 μονάδες
