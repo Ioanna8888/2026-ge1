@@ -109,6 +109,8 @@
 Σύνδεσμοι τεκμηρίωσης:
 
 Αρχικό Pull Request #3: https://github.com/sdy60-2026/ge1/pull/3
+![Pull Request 3](https://github.com/user-attachments/assets/476b4bdf-e358-4504-9b60-48ede303543e")
+*Εικόνα 1: Ενσωμάτωση του αρχικού Pull Request #3.*
 
 Pull Request ενημέρωσης #6: https://github.com/sdy60-2026/ge1/pull/6
 
