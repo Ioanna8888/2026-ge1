@@ -102,10 +102,10 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 
 #### Απάντηση
 Ο κώδικας της εφαρμογής που δημιούργησα με το Flutter είναι διαθέσιμος στο GitHub.
-Προβολή κώδικα
+Προβολή  κώδικα
 https://github.com/Ioanna8888/fire-safety-app
 
-Για της παρουσίαση του τρόπου με τον οποίο η Μαρία χρησιμοποιεί την εφαρμογή έχω επιλέξει το πρόγραμμα OBS Studio για την καταγραφή της οθόνης.
+Για της παρουσίαση της εφαρμογής έχω επιλέξει το πρόγραμμα OBS Studio για την καταγραφή της οθόνης.
 Βίντεο παρουσίασης
 https://drive.google.com/file/d/1qthy83muBaeWN9DY4BxTpaPQIA6ma8KB/view?usp=drive_link
 
