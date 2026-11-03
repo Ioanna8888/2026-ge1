@@ -276,12 +276,14 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 <img width="401" height="823" alt="Image" src="https://github.com/user-attachments/assets/506f9ccd-5323-4b9c-9509-ca5314aa1474" />
 
 Οθόνη 2  Εμφάνιση πληροφοριών
+
 Στο κάτω μέρος της εφαρμογής υπάρχει το κουμπί «Εμφάνιση επιλογών». Πατώντας το η Μαρία μπορεί να δει τι σημαίνει κάθε σύμβολο που εμφανίζεται στον χάρτη. Επίσης επιλέγοντας κάποιο σύμβολο πυρκαγιάς εμφανίζεται ένα παράθυρο με περισσότερες πληροφορίες όπως η κατηγορία του συμβάντος και η τοποθεσία του και η ώρα καταγραφής.
 
 <img width="406" height="828" alt="Image" src="https://github.com/user-attachments/assets/bfb790ea-f7c4-4ae2-bab0-f664f7eeda1e" />
 <img width="400" height="874" alt="Image" src="https://github.com/user-attachments/assets/b6c9adf7-926e-488a-a005-07d3fb72e0ba" />
 
 Οθόνη 3 Υποβολή αναφοράς πυρκαγιάς
+
 Εάν η Μαρία παρατηρήσει καπνό μπορεί να επιλέξει το αντίστοιχο σημείο στον χάρτη και να πατήσει το κουμπί «Αναφορά πυρκαγιάς». Στη συνέχεια εμφανίζεται ένα παράθυρο στο οποίο μπορεί να γράψει μια σύντομη περιγραφή. Μόλις υποβάλει την αναφορά  η αναφορά χαρακτηρίζεται ως «μη επιβεβαιωμένη». Με αυτόν τον τρόπο γίνεται σαφής διαχωρισμός ανάμεσα στις πληροφορίες που δίνουν οι πολίτες και στα επιβεβαιωμένα περιστατικά.
 
 <img width="401" height="835" alt="Image" src="https://github.com/user-attachments/assets/9f389986-d79a-402e-8ac6-07fe72a19e28" />
@@ -290,6 +292,7 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 <img width="400" height="833" alt="Image" src="https://github.com/user-attachments/assets/c929e008-1131-45a3-a430-1608bb7e9b34" />
 
 Οθόνη 4 Κοινοποίηση τοποθεσίας
+
 Η Μαρία μπορεί επίσης να πατήσει το κουμπί «Κοινοποίηση τοποθεσίας». Τότε εμφανίζεται ένα απλό παράθυρο στο οποίο μπορεί να επιλέξει δύο γείτονές της. Πατώντας «Κοινοποίηση», εμφανίζεται ένα μήνυμα επιτυχίας.
 
 <img width="400" height="838" alt="Image" src="https://github.com/user-attachments/assets/836c2c34-4613-482b-a7ce-c004465f19d2" />
@@ -298,11 +301,16 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 
 
 Ο κώδικας της εφαρμογής είναι διαθέσιμος στο GitHub.
+
 Προβολή  κώδικα
+
+
 https://github.com/Ioanna8888/fire-safety-app
 
 Για της παρουσίαση της εφαρμογής έχω επιλέξει το πρόγραμμα OBS Studio για την καταγραφή της οθόνης.
+
 Βίντεο παρουσίασης
+
 https://drive.google.com/file/d/1qthy83muBaeWN9DY4BxTpaPQIA6ma8KB/view?usp=drive_link
 
 
