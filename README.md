@@ -308,7 +308,12 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 
 https://github.com/Ioanna8888/fire-safety-app
 
+Η ανάπτυξη και επεξεργασία του κώδικα πραγματοποιήθηκε στο Visual Studio Code με χρήση της γλώσσας Dart.
+
+<img width="1912" height="1030" alt="Image" src="https://github.com/user-attachments/assets/028efe21-cfb9-4718-a898-cf1ca298c137" />
+
 Για της παρουσίαση της εφαρμογής έχω επιλέξει το πρόγραμμα OBS Studio για την καταγραφή της οθόνης.
+
 
 Βίντεο παρουσίασης
 
