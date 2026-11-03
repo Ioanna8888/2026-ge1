@@ -95,7 +95,8 @@
 
 •	Βιογραφικό στο Webring: https://sdy60-2026.github.io/ge1/members/PapachristouIoanna.html
 
-Τεκμηρίωση προσωπικής συνεισφοράς μέσω Pull Requests
+
+Τεκμηρίωση μέσω Pull Requests
 
 •	PR#3 Προσθήκη συνδέσμου βιογραφικού: https://github.com/sdy60-2026/ge1/pull/3
 
