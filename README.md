@@ -135,11 +135,8 @@
 
 Σύνδεσμοι παραδοτέου
 
-•	Προσωπική ιστοσελίδα βιογραφικού: https://ioanna8888.github.io/my-cv/
 
 •	Τελικό αρχείο PDF: https://ioanna8888.github.io/my-cv/cv.pdf
-
-•	Προσωπικό αποθετήριο GitHub: https://github.com/Ioanna8888/my-cv
 
 •	Αρχείο δεδομένων YAML: https://github.com/Ioanna8888/my-cv/blob/main/_data/cv.yml
 
