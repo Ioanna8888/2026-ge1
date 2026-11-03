@@ -301,16 +301,15 @@ https://www.interaction-design.org/literature/topics/user-scenarios
 <img width="399" height="834" alt="Image" src="https://github.com/user-attachments/assets/048b6a76-ecab-4d94-b098-3dd5740ab046" />
 
 
-Ο κώδικας της εφαρμογής είναι διαθέσιμος στο GitHub.
+
+Η ανάπτυξη και επεξεργασία του κώδικα πραγματοποιήθηκε στο Visual Studio Code με χρήση της γλώσσας Dart.
+
+<img width="1912" height="1030" alt="Image" src="https://github.com/user-attachments/assets/028efe21-cfb9-4718-a898-cf1ca298c137" />
 
 Προβολή  κώδικα
 
 
 https://github.com/Ioanna8888/fire-safety-app
-
-Η ανάπτυξη και επεξεργασία του κώδικα πραγματοποιήθηκε στο Visual Studio Code με χρήση της γλώσσας Dart.
-
-<img width="1912" height="1030" alt="Image" src="https://github.com/user-attachments/assets/028efe21-cfb9-4718-a898-cf1ca298c137" />
 
 Για της παρουσίαση της εφαρμογής έχω επιλέξει το πρόγραμμα OBS Studio για την καταγραφή της οθόνης.
 
